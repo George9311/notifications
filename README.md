@@ -49,11 +49,6 @@ woocommerce_product_set_stock_status	action	Core WooCommerce hook the plugin tap
 Feel free to add your own filters for templates, cookie duration, etc.
 
 
-
-### How to use it on LinkedIn
-1. Push the plugin + this `README.md` to your GitHub repo.
-2. Copy the repo URL into your LinkedIn **Featured** section—LinkedIn will auto‑embed the README preview so recruiters can see your tech stack, features and code quality at a glance.
-
 Let me know if you’d like extra badges, CI instructions, or screenshot captions!
 Built with ❤️ by George 
 https://www.linkedin.com/in/giorgian-ionut-terchila/
